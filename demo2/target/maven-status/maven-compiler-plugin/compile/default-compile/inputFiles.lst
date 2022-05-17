@@ -1,0 +1,15 @@
+C:\work\dev\demo2\src\main\java\com\example\demo\api\controller\CandidateController.java
+C:\work\dev\demo2\src\main\java\com\example\demo\entites\dtos\ExperienceDto.java
+C:\work\dev\demo2\src\main\java\com\example\demo\entites\dtos\SkillsDto.java
+C:\work\dev\demo2\src\main\java\com\example\demo\entites\ExperienceEntity.java
+C:\work\dev\demo2\src\main\java\com\example\demo\entites\CandidateEntity.java
+C:\work\dev\demo2\src\main\java\com\example\demo\business\concreates\CandidateServiceImp.java
+C:\work\dev\demo2\src\main\java\com\example\demo\business\abstracts\CandidateService.java
+C:\work\dev\demo2\src\main\java\com\example\demo\entites\SkillEntity.java
+C:\work\dev\demo2\src\main\java\com\example\demo\entites\dtos\CandidateDto.java
+C:\work\dev\demo2\src\main\java\com\example\demo\entites\Gender.java
+C:\work\dev\demo2\src\main\java\com\example\demo\repositories\ExperienceRepo.java
+C:\work\dev\demo2\src\main\java\com\example\demo\repositories\CandidateRepo.java
+C:\work\dev\demo2\src\main\java\com\example\demo\repositories\SkillsRepo.java
+C:\work\dev\demo2\src\main\java\com\example\demo\core\ModelMapperBean.java
+C:\work\dev\demo2\src\main\java\com\example\demo\Demo2Application.java
