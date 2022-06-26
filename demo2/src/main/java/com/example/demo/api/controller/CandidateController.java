@@ -15,11 +15,11 @@ import java.util.Map;
 @RequestMapping("/rest/candidates")
 public class CandidateController {
 
-    @Autowired // servisin inject edilmesi
+    @Autowired 
     private final CandidateService candidateService;
 
     public CandidateController(CandidateService candidateService) {
-        this.candidateService = candidateService;
+        this.candidateService = candidateService; // servisin inject edilmesi
     }
 
     // http://localhost:8081/rest/candidates/add
