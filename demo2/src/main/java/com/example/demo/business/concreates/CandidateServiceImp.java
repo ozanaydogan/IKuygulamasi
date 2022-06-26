@@ -33,7 +33,7 @@ public class CandidateServiceImp implements CandidateService {
 
     public final SkillsRepo skillsRepo;
 
-    @Autowired // bean yapısı olduğu için autowired dedik, spring, bean yapılarını autowired anotasyonu ile kendisi otomatik oluşturuyor
+    @Autowired
     private ModelMapper modelMapper;
 
     public CandidateServiceImp(CandidateRepo candidateRepo, ExperienceRepo experienceRepo, SkillsRepo skillsRepo) {
