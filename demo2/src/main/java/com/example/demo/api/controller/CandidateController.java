@@ -15,7 +15,7 @@ import java.util.Map;
 @RequestMapping("/rest/candidates")
 public class CandidateController {
 
-    @Autowired
+    @Autowired // servisin inject edilmesi
     private final CandidateService candidateService;
 
     public CandidateController(CandidateService candidateService) {
